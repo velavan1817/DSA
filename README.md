@@ -16,5 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/velavan1817/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/velavan1817/DSA/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/velavan1817/DSA/tree/master/0059-spiral-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/velavan1817/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
