@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/velavan1817/DSA/tree/master/0059-spiral-matrix-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/velavan1817/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
