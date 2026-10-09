@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/velavan1817/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/velavan1817/DSA/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -35,5 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/velavan1817/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/velavan1817/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/velavan1817/DSA/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/velavan1817/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
