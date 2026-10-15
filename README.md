@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/velavan1817/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/velavan1817/DSA/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/velavan1817/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velavan1817/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/velavan1817/DSA/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/velavan1817/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
