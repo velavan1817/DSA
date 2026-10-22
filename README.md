@@ -83,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/velavan1817/DSA/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/velavan1817/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/velavan1817/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
