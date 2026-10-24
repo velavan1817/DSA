@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/velavan1817/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/velavan1817/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/velavan1817/DSA/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/velavan1817/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velavan1817/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/velavan1817/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/velavan1817/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/velavan1817/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/velavan1817/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/velavan1817/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/velavan1817/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/velavan1817/DSA/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/velavan1817/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/velavan1817/DSA/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -91,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/velavan1817/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/velavan1817/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
