@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/velavan1817/DSA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/velavan1817/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/velavan1817/DSA/tree/master/0067-add-binary) |
 ## String
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/velavan1817/DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/velavan1817/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/velavan1817/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/velavan1817/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/velavan1817/DSA/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/velavan1817/DSA/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/velavan1817/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/velavan1817/DSA/tree/master/0067-add-binary) |
 ## Array
