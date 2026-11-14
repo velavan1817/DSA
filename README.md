@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/velavan1817/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/velavan1817/DSA/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/velavan1817/DSA/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/velavan1817/DSA/tree/master/0067-add-binary) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/velavan1817/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/velavan1817/DSA/tree/master/0060-permutation-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
