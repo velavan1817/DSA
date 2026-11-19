@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/velavan1817/DSA/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/velavan1817/DSA/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/velavan1817/DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/velavan1817/DSA/tree/master/0089-gray-code) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/velavan1817/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/velavan1817/DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/velavan1817/DSA/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/velavan1817/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/velavan1817/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/velavan1817/DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/velavan1817/DSA/tree/master/0089-gray-code) |
 ## Hash Table
 |  |
 | ------- |
